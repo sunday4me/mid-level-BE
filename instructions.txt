@@ -1,0 +1,24 @@
+Mid Level Back-End Developer
+We are looking for a nice back-end developer with primary skills in NodeJS, MongoDB, AWS to work full-time primarily on the back-end.
+
+Core tech requirements
+a. Node JS
+b. Mongo DB
+c. AWS (Lambda)
+d. GraphQL
+
+Task
+Develop a GraphQL API for a to-do list application using MongoDB and AWS Lambda.
+
+Requirements:
+
+1. Set up a MongoDB database to store to-do list items.
+2. Implement a GraphQL schema for the to-do list application with types like Todo with fields such as id, title, description, and completed.
+3. Create GraphQL queries and mutations for CRUD operations on to-do list items.
+4. Use AWS Lambda for the GraphQL resolvers.
+5. Ensure proper input validation and error handling in the GraphQL resolvers.
+6. Write basic unit tests for the GraphQL resolvers to ensure functionality.
+7. Deploy the GraphQL API using AWS Lambda and API Gateway.
+
+You can send an email to yoyoplenty@gmail.com If you have any questions/clarifications
+
